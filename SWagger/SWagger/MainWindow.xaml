@@ -8,5 +8,6 @@
         Title="MainWindow" Height="450" Width="800">
     <Grid>
         <Button Content="hello world!!!"/>
+        <CheckBox Content="男" HorizontalAlignment="Left" Margin="405,137,0,0" VerticalAlignment="Top"/>
     </Grid>
 </Window>
